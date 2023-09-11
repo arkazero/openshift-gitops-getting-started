@@ -3,7 +3,7 @@ kind: Route
 metadata:
   labels:
     app: spring-petclinic
-  name: spring-petclinic
+  name: spring-petclinicc
 spec:
   port:
     targetPort: 8080-tcp
